@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to homework 1 solution.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-785j-cell-matrix-mechanics-fall-2014/03464cc8ae6bc9960597a44fa2f468fe_MIT2_785JF14_Homework_1_Sol.pdf
+file: /media/courses/2-785j-cell-matrix-mechanics-fall-2014/03464cc8ae6bc9960597a44fa2f468fe_MIT2_785JF14_Homework_1_Sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Cell-Matrix Mechanics: Solutions to Homework 1'
 uid: 03464cc8-ae6b-c996-0597-a44fa2f468fe
