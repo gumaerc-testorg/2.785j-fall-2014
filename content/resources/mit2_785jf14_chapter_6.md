@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cc45a9d5-36f2-817f-b6a4-4575afd70e91
 resourcetype: Document
 title: Effects of Exogenous Mechanical Forces
 uid: 4e128e5b-693f-fd57-617c-d9a240baa1e6

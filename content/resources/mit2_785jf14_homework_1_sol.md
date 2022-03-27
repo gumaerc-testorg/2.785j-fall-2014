@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 26d9375f-5d61-1b0a-6c50-7ae968841e8d
 resourcetype: Document
 title: 'Cell-Matrix Mechanics: Solutions to Homework 1'
 uid: 03464cc8-ae6b-c996-0597-a44fa2f468fe

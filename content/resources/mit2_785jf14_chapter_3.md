@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cc45a9d5-36f2-817f-b6a4-4575afd70e91
 resourcetype: Document
 title: 'Cell-Matrix Interaction: Integrins and Fibronexus'
 uid: 7cca5c6a-1404-03a9-eee7-2a1f20169360

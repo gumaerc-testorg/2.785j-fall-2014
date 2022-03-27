@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cc45a9d5-36f2-817f-b6a4-4575afd70e91
 resourcetype: Document
 title: Tissue Structures and Unit Cell Processes
 uid: df9b1f6e-f2c1-1a16-66c6-6ff28520dc51
