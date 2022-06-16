@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the term report assignment required
+  for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Term Report

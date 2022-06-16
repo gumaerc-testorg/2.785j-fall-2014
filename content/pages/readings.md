@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the assigned readings for the course and links
+  to additional readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -22,7 +24,7 @@ ADDITIONAL READINGS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction (PDF)]({{< baseurl >}}/resources/mit2_785jf14_chapter_1)
+{{% resource_link 0f8cc07d-7774-4745-fe6a-576c3f810a64 "Introduction (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -37,7 +39,7 @@ Engler, Adam J., Shamik Sen, et al. "[Matrix Elasticity Directs Stem Cell Lineag
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Tissue Structures and Unit Cell Processes (PDF - 3.9MB)]({{< baseurl >}}/resources/mit2_785jf14_chapter_2)
+{{% resource_link df9b1f6e-f2c1-1a16-66c6-6ff28520dc51 "Tissue Structures and Unit Cell Processes (PDF - 3.9MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -54,7 +56,7 @@ Hinz, Boris, Giuseppe Celetta, et al. "[Alpha-smooth Muscle Actin Expression Upr
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Cell-Matrix Interaction: Integrins and Fibronexus (PDF - 3.9MB)]({{< baseurl >}}/resources/mit2_785jf14_chapter_3)
+{{% resource_link 7cca5c6a-1404-03a9-eee7-2a1f20169360 "Cell-Matrix Interaction: Integrins and Fibronexus (PDF - 3.9MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -99,7 +101,7 @@ Mechanical Behavior
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Effects of Exogenous Mechanical Forces (PDF)]({{< baseurl >}}/resources/mit2_785jf14_chapter_6)
+{{% resource_link 4e128e5b-693f-fd57-617c-d9a240baa1e6 "Effects of Exogenous Mechanical Forces (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
