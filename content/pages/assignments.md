@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides most of the homework assignments for the course
+  and solutions to selected assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 26d9375f-5d61-1b0a-6c50-7ae968841e8d
 ---
@@ -19,34 +24,34 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homework 1 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_1)
+{{% resource_link 23f2faab-abd1-772b-bf8b-36b891732bc3 "Homework 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Homework 1 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_1_sol)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Homework 2 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_2)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solutions to Homework 2 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_2_sol)
+{{% resource_link 03464cc8-ae6b-c996-0597-a44fa2f468fe "Solutions to Homework 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homework 3 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_3)
+{{% resource_link 91a37d2f-7258-353b-cb77-7e90fab018cb "Homework 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Homework 3 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_3_sol)
+{{% resource_link 857ec4fd-fd0c-13c6-ff44-2a6828aa0f23 "Solutions to Homework 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 4 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_4)
+{{% resource_link a47bbfbe-8359-a827-17f9-fb4980970712 "Homework 3 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 56434f10-a571-87df-c7ae-18dab00c6376 "Solutions to Homework 3 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link a741a861-8c0a-e74c-dba0-64866e764652 "Homework 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Solutions are not available.
@@ -55,7 +60,7 @@ Solutions are not available.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 5 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_5)
+{{% resource_link f5d5552e-88cf-63c2-7a8c-df69a49c24b2 "Homework 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Solutions are not available.
@@ -64,10 +69,10 @@ Solutions are not available.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homework 6 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_6)
+{{% resource_link e48fa2e2-f09b-d973-5772-3a21fef8095f "Homework 6 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Homework 6 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_6_sol)
+{{% resource_link e960db8d-1869-8ecf-1c2c-8e53f0df1184 "Solutions to Homework 6 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +87,7 @@ Solutions are not available.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 8 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_8)
+{{% resource_link 6e4dd70f-ece9-7302-9ebc-5f73e68b2b3c "Homework 8 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Solutions are not available.

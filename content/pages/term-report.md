@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a description of the term report assignment required
+  for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Term Report
 uid: 0648cdf9-fca8-639c-d4bf-95ae95be9f39
 ---
