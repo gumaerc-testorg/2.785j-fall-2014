@@ -5,6 +5,7 @@ file: /courses/2-785j-cell-matrix-mechanics-fall-2014/a741a8618c0ae74cdba064866e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Cell-Matrix Mechanics: Homework 4'
 uid: a741a861-8c0a-e74c-dba0-64866e764652
 ---
 This resource contains information related to homework 4.
-

@@ -6,6 +6,7 @@ file: /courses/2-785j-cell-matrix-mechanics-fall-2014/7cca5c6a140403a9eee72a1f20
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Cell-Matrix Interaction: Integrins and Fibronexus'
 uid: 7cca5c6a-1404-03a9-eee7-2a1f20169360
 ---
 This resource contains information regarding Cell-Matrix Interaction: Integrins and Fibronexus.
-

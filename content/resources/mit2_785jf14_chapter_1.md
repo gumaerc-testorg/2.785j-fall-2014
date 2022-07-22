@@ -5,6 +5,7 @@ file: /courses/2-785j-cell-matrix-mechanics-fall-2014/0f8cc07d77744745fe6a576c3f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Introduction
 uid: 0f8cc07d-7774-4745-fe6a-576c3f810a64
 ---
 This resource contains information regarding Introduction.
-

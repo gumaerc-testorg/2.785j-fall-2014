@@ -5,6 +5,7 @@ file: /courses/2-785j-cell-matrix-mechanics-fall-2014/e960db8d18698ecf1c2c8e53f0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Cell-Matrix Mechanics: Solutions to Homework 6'
 uid: e960db8d-1869-8ecf-1c2c-8e53f0df1184
 ---
 This resource contains information related to homework 6 solution.
-
