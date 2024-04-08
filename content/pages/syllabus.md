@@ -19,9 +19,9 @@ Prerequisites
 
 [_2.001 Mechanics & Materials I_](/courses/2-001-mechanics-materials-i-fall-2006) or
 
-[_2.01 Elements of Structures_](http://student.mit.edu/catalog/m2a.html#2.01) and
+{{% resource_link "cc26ba6d-a7f7-4a8b-b3b0-2d8cbd39c00b" "_2.01 Elements of Structures_" %}} and
 
-[_2.02A Engineering Materials: Properties and Applications_](http://student.mit.edu/catalog/m2a.html#2.02A)
+{{% resource_link "ad7fa494-f6d7-468c-9f61-33c1894e59ae" "_2.02A Engineering Materials: Properties and Applications_" %}}
 
 Chemistry (GIR) ![](/images/educator/icon-question-gir.png)  
 One of the following courses:
