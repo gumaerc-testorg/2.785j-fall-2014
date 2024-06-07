@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to homework 1 solution.
 file: /courses/2-785j-cell-matrix-mechanics-fall-2014/03464cc8ae6bc9960597a44fa2f468fe_MIT2_785JF14_Homework_1_Sol.pdf
+file_size: 162357
 file_type: application/pdf
 learning_resource_types:
 - Assignments

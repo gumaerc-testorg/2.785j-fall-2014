@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding Cell-Matrix Interaction:
   Integrins and Fibronexus.'
 file: /courses/2-785j-cell-matrix-mechanics-fall-2014/7cca5c6a140403a9eee72a1f20169360_MIT2_785JF14_Chapter_3.pdf
+file_size: 4098063
 file_type: application/pdf
 learning_resource_types:
 - Readings
