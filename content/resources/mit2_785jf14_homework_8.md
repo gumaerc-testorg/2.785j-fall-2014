@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to homework 8.
-file: /ol-ocw-studio-app/courses/2-785j-cell-matrix-mechanics-fall-2014/6e4dd70fece973029ebc5f73e68b2b3c_MIT2_785JF14_Homework_8.pdf
+file: /courses/2-785j-cell-matrix-mechanics-fall-2014/6e4dd70fece973029ebc5f73e68b2b3c_MIT2_785JF14_Homework_8.pdf
 file_size: 170651
 file_type: application/pdf
 learning_resource_types:

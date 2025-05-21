@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Tissue Structures and Unit
   Cell Processes.
-file: /ol-ocw-studio-app/courses/2-785j-cell-matrix-mechanics-fall-2014/df9b1f6ef2c11a1666c66ff28520dc51_MIT2_785JF14_Chapter_2.pdf
+file: /courses/2-785j-cell-matrix-mechanics-fall-2014/df9b1f6ef2c11a1666c66ff28520dc51_MIT2_785JF14_Chapter_2.pdf
 file_size: 4098063
 file_type: application/pdf
 learning_resource_types:
