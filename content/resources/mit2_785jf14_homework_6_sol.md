@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to homework 6 solution.
-file: /courses/2-785j-cell-matrix-mechanics-fall-2014/e960db8d18698ecf1c2c8e53f0df1184_MIT2_785JF14_Homework_6_Sol.pdf
+file: /ol-ocw-studio-app/courses/2-785j-cell-matrix-mechanics-fall-2014/e960db8d18698ecf1c2c8e53f0df1184_MIT2_785JF14_Homework_6_Sol.pdf
 file_size: 272747
 file_type: application/pdf
 learning_resource_types:
