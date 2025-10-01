@@ -170,7 +170,7 @@ MS, IY
 
 
 Response of Chondrocytes to Strain  
-Guest lecturer: [Prof. Alan Grodzinsky](http://web.mit.edu/continuum/www/)
+Guest lecturer: {{% resource_link "f57738b0-08d2-4c12-a23b-2c39e7fef8e2" "Prof. Alan Grodzinsky" %}}
 
 
 {{< tdclose >}}
